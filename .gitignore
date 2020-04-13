@@ -1,0 +1,7 @@
+# Project exclude paths
+/spring-2-annotation/kuang/target/
+/spring-2-annotation/target/
+/spring-3-config/target/
+/spring-10-mybatis/target/
+/spring-11-transaction/target/
+/spring-anntotation/target/
